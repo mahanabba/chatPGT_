@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/repositories/chatPGT_/
-     python web.py $DEPLOYPATH
+    - export DEPLOYPATH=/home/chatxvyt/repositories/chatPGT_/
+     /bin/cp web.py $DEPLOYPATH
     
