@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/mahanabba/chatPGT_/app.py/
+    
